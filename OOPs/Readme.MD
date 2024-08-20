@@ -1,4 +1,8 @@
-Certainly! Below is a detailed guide for demonstrating Object-Oriented Programming (OOP) concepts in Groovy. This includes sample code for classes and objects, properties and fields, methods, inheritance, polymorphism, and abstract classes/interfaces. Additionally, I’ll include how to run the code, code samples, and a suggested folder structure.
+Below is a detailed guide for demonstrating Object-Oriented Programming (OOP) concepts in Groovy. 
+
+This includes sample code for classes and objects, properties and fields, methods, inheritance, polymorphism, and abstract classes/interfaces.
+
+Additionally, I’ll include how to run the code, code samples, and a suggested folder structure.
 
 ### Folder Structure
 
